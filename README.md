@@ -4,6 +4,7 @@ You can see gallery in action here http://janziher.com/
 
 How to include gallery to your page:
 
+```html
 <div id="galerija">
 		<ul>
 			<li><img src='image1' alt=''></li>
@@ -11,3 +12,4 @@ How to include gallery to your page:
 			<li><img src='image1' alt=''></li>
 		</ul>
 </div>
+```
